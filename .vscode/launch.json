@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MinicrmApplication<minicrm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.spring.minicrm.MinicrmApplication",
+            "projectName": "minicrm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
